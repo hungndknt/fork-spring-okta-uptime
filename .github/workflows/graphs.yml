@@ -28,9 +28,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          ref: ${{ github.head_ref }}
-          token: ${{ secrets.MY_WRITE_TOKEN }}
+#        with:
+#          ref: ${{ github.head_ref }}
+#          token: ${{ secrets.MY_WRITE_TOKEN }}
       - name: Generate graphs
         uses: upptime/uptime-monitor@v1.41.0
         with:
