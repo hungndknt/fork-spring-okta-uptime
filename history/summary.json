@@ -4,19 +4,19 @@
     "url": "https://hungndknt.site/",
     "icon": "https://icons.duckduckgo.com/ip3/hungndknt.site.ico",
     "slug": "test",
-    "status": "down",
-    "uptime": "80.03%",
-    "uptimeDay": "80.03%",
-    "uptimeWeek": "80.03%",
-    "uptimeMonth": "80.03%",
-    "uptimeYear": "80.03%",
-    "time": 274,
-    "timeDay": 274,
-    "timeWeek": 274,
-    "timeMonth": 274,
-    "timeYear": 274,
+    "status": "up",
+    "uptime": "75.97%",
+    "uptimeDay": "75.97%",
+    "uptimeWeek": "75.97%",
+    "uptimeMonth": "75.97%",
+    "uptimeYear": "75.97%",
+    "time": 265,
+    "timeDay": 265,
+    "timeWeek": 265,
+    "timeMonth": 265,
+    "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-09-11": 62
+      "2025-09-11": 79
     }
   },
   {
