@@ -5,6 +5,11 @@ repo: fork-spring-okta-uptime # The name of this repository
 sites:
   - name: TEST
     url: https://hungndknt.site/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 308  
   - name: NAB-OPS
     url: https://ops.namabank.com.vn/
   - name: NAB-HOMEPAGE
