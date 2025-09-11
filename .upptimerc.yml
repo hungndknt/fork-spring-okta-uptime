@@ -4,7 +4,7 @@ repo: fork-spring-okta-uptime # The name of this repository
 
 sites:
   - name: TEST
-    url: https://nextjs-boilerplate-two-pink-ieuxuko35f.vercel.app/
+    url: https://hungndknt.site/
   - name: OPS-NAB
     url: https://ops.namabank.com.vn/
   - name: NAB-HOMEPAGE
