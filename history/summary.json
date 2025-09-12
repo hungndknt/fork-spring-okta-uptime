@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hungndknt.site.ico",
     "slug": "test",
     "status": "up",
-    "uptime": "75.97%",
-    "uptimeDay": "75.97%",
-    "uptimeWeek": "75.97%",
-    "uptimeMonth": "75.97%",
-    "uptimeYear": "75.97%",
-    "time": 265,
-    "timeDay": 265,
-    "timeWeek": 265,
-    "timeMonth": 265,
-    "timeYear": 265,
+    "uptime": "94.11%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "94.11%",
+    "uptimeMonth": "94.11%",
+    "uptimeYear": "94.11%",
+    "time": 257,
+    "timeDay": 257,
+    "timeWeek": 257,
+    "timeMonth": 257,
+    "timeYear": 257,
     "dailyMinutesDown": {
       "2025-09-11": 79
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5083,
-    "timeDay": 5083,
-    "timeWeek": 5083,
-    "timeMonth": 5083,
-    "timeYear": 5083,
+    "time": 5236,
+    "timeDay": 5236,
+    "timeWeek": 5236,
+    "timeMonth": 5236,
+    "timeYear": 5236,
     "dailyMinutesDown": {}
   }
 ]
