@@ -1,25 +1,5 @@
 [
   {
-    "name": "TEST",
-    "url": "https://hungndknt.site/",
-    "icon": "https://icons.duckduckgo.com/ip3/hungndknt.site.ico",
-    "slug": "test",
-    "status": "up",
-    "uptime": "94.11%",
-    "uptimeDay": "94.11%",
-    "uptimeWeek": "94.11%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "94.11%",
-    "time": 257,
-    "timeDay": 257,
-    "timeWeek": 257,
-    "timeMonth": 257,
-    "timeYear": 257,
-    "dailyMinutesDown": {
-      "2025-09-11": 79
-    }
-  },
-  {
     "name": "NAB-OPS",
     "url": "https://ops.namabank.com.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/ops.namabank.com.vn.ico",
@@ -30,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5236,
-    "timeDay": 5236,
-    "timeWeek": 5236,
-    "timeMonth": 5236,
-    "timeYear": 5236,
+    "time": 5613,
+    "timeDay": 5613,
+    "timeWeek": 5613,
+    "timeMonth": 5613,
+    "timeYear": 5613,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "NAB-HOMEPAGE",
+    "url": "https://namabank.com.vn/",
+    "icon": "https://icons.duckduckgo.com/ip3/namabank.com.vn.ico",
+    "slug": "nab-homepage",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 5792,
+    "timeDay": 5683,
+    "timeWeek": 5792,
+    "timeMonth": 5792,
+    "timeYear": 5792,
     "dailyMinutesDown": {}
   }
 ]
