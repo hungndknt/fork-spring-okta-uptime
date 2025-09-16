@@ -4,18 +4,20 @@
     "url": "https://ops.namabank.com.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/ops.namabank.com.vn.ico",
     "slug": "nab-ops",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4531,
-    "timeDay": 1139,
-    "timeWeek": 4531,
-    "timeMonth": 4531,
-    "timeYear": 4531,
-    "dailyMinutesDown": {}
+    "time": 4575,
+    "timeDay": 3058,
+    "timeWeek": 4575,
+    "timeMonth": 4575,
+    "timeYear": 4575,
+    "dailyMinutesDown": {
+      "2025-09-16": 0
+    }
   },
   {
     "name": "NAB-HOMEPAGE",
