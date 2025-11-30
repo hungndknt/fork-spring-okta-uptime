@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ops.namabank.com.vn.ico",
     "slug": "nab-ops",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.89%",
-    "time": 3814,
-    "timeDay": 6460,
-    "timeWeek": 4499,
-    "timeMonth": 3389,
-    "timeYear": 3814,
+    "uptimeYear": "99.90%",
+    "time": 3788,
+    "timeDay": 1384,
+    "timeWeek": 3915,
+    "timeMonth": 3381,
+    "timeYear": 3788,
     "dailyMinutesDown": {
       "2025-11-15": 120
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3761,
-    "timeDay": 5708,
-    "timeWeek": 4146,
-    "timeMonth": 3357,
-    "timeYear": 3761,
+    "time": 3741,
+    "timeDay": 1976,
+    "timeWeek": 3529,
+    "timeMonth": 3351,
+    "timeYear": 3741,
     "dailyMinutesDown": {}
   }
 ]
